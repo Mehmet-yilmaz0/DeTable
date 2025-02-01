@@ -46,7 +46,3 @@ Oyunu başlatın ve çantanızı oluşturmaya başlayın!
 Katkıda Bulunma
 
 Projeye katkıda bulunmak istiyorsanız pull request gönderebilir veya yeni özellik önerileri için issue açabilirsiniz.
-
-Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır.
