@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 87261467c147fe64c971851009b4f48e
+guid: e9a84b3e87788224eb323edbc958eb72
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: holy dagger
+  - name: BackpackBackground
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -130,9 +130,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 8
-      height: 12
-    spriteID: fefb970bc9c3a7d4a901118690c9caf3
+      width: 82
+      height: 64
+    spriteID: db7f86fb134cc8d41a822e245209c8db
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,25 +144,25 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1679874086
-    name: holy dagger
+    guid: -673253092
+    name: BackpackBackground
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: holy dagger
+    - name: BackpackBackground
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 19
-        y: 16
-        width: 8
-        height: 12
-      spriteId: fefb970bc9c3a7d4a901118690c9caf3
+        x: 80
+        y: 102
+        width: 82
+        height: 64
+      spriteId: db7f86fb134cc8d41a822e245209c8db
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 32, y: 32}
+  canvasSize: {x: 256, y: 256}

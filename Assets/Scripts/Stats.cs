@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Stats : MonoBehaviour
 {
-    float _PhisicialStrong;
-    float _Speed;
-    float _Mind;
-    float _AttackSpeed;
-    float _Mana;
+    public float _PhisicialStrong;
+    public float _Speed;
+    public float _Mind;
+    public float _AttackSpeed;
+    public float _Mana;
     public float PhisicialStrong { get; set; }
     public float Speed { get; set; }
     public float Mind { get; set; }

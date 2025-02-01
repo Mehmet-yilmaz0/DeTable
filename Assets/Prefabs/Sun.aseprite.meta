@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 87261467c147fe64c971851009b4f48e
+guid: 24dd01e18af6bf84b87c0d992b8489b2
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: holy dagger
+  - name: Sun
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -130,9 +130,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 8
-      height: 12
-    spriteID: fefb970bc9c3a7d4a901118690c9caf3
+      width: 6
+      height: 6
+    spriteID: 6c0d397216da78d46ba75b3cbd5017a8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,25 +144,25 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1679874086
-    name: holy dagger
+    guid: 1912109768
+    name: Sun
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: holy dagger
+    - name: Sun
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 19
-        y: 16
-        width: 8
-        height: 12
-      spriteId: fefb970bc9c3a7d4a901118690c9caf3
+        x: 5
+        y: 5
+        width: 6
+        height: 6
+      spriteId: 6c0d397216da78d46ba75b3cbd5017a8
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 32, y: 32}
+  canvasSize: {x: 16, y: 16}
