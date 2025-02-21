@@ -7,6 +7,13 @@ public class Item : MonoBehaviour
     protected bool InShelf;
     protected bool InShop;
     protected bool InBackpack;
+    public enum itemType
+    {
+        weapon,
+        nature,
+        pet
+    }
+    public itemType MyType;
 
     // Start is called before the first frame update
     void Start()
